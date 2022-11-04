@@ -1,0 +1,62 @@
+[
+{
+  "model": "budget.income",
+  "pk": 1,
+  "fields": {
+    "budget": 1,
+    "category": "earned",
+    "amount": "3500.00",
+    "description": "Misa's work"
+  }
+},
+{
+  "model": "budget.income",
+  "pk": 2,
+  "fields": {
+    "budget": 2,
+    "category": "passive",
+    "amount": "1000.00",
+    "description": "Alex's books"
+  }
+},
+{
+  "model": "budget.income",
+  "pk": 3,
+  "fields": {
+    "budget": 3,
+    "category": "portfolio",
+    "amount": "5000.00",
+    "description": "Katya's investments"
+  }
+},
+{
+  "model": "budget.income",
+  "pk": 4,
+  "fields": {
+    "budget": 4,
+    "category": "earned",
+    "amount": "1000.00",
+    "description": "Oleg's second work"
+  }
+},
+{
+  "model": "budget.income",
+  "pk": 5,
+  "fields": {
+    "budget": 4,
+    "category": "earned",
+    "amount": "1500.00",
+    "description": "Oleg's first work"
+  }
+},
+{
+  "model": "budget.income",
+  "pk": 6,
+  "fields": {
+    "budget": 1,
+    "category": "portfolio",
+    "amount": "3400.00",
+    "description": "Misa's dividends"
+  }
+}
+]

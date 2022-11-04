@@ -1,0 +1,62 @@
+[
+{
+  "model": "budget.expenses",
+  "pk": 1,
+  "fields": {
+    "budget": 1,
+    "category": "utilities",
+    "amount": "600.00",
+    "description": "Misa's utilities"
+  }
+},
+{
+  "model": "budget.expenses",
+  "pk": 2,
+  "fields": {
+    "budget": 4,
+    "category": "entertainment",
+    "amount": "600.00",
+    "description": "Oleg go to bars on Friday"
+  }
+},
+{
+  "model": "budget.expenses",
+  "pk": 3,
+  "fields": {
+    "budget": 2,
+    "category": "rent",
+    "amount": "1500.00",
+    "description": "Alex`s flat"
+  }
+},
+{
+  "model": "budget.expenses",
+  "pk": 4,
+  "fields": {
+    "budget": 3,
+    "category": "transportation",
+    "amount": "2000.00",
+    "description": "Katya`s car"
+  }
+},
+{
+  "model": "budget.expenses",
+  "pk": 5,
+  "fields": {
+    "budget": 1,
+    "category": "health_insurance",
+    "amount": "900.00",
+    "description": "Katya go to stomatology"
+  }
+},
+{
+  "model": "budget.expenses",
+  "pk": 6,
+  "fields": {
+    "budget": 3,
+    "category": "clothing",
+    "amount": "4000.00",
+    "description": "Katya go to ShopMall"
+  }
+}
+]

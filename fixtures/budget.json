@@ -1,0 +1,43 @@
+[
+{
+  "model": "budget.budget",
+  "pk": 1,
+  "fields": {
+    "name": "Misa's budget",
+    "owner": 2,
+    "shared": []
+  }
+},
+{
+  "model": "budget.budget",
+  "pk": 2,
+  "fields": {
+    "name": "Alex's budget",
+    "owner": 3,
+    "shared": [
+      2
+    ]
+  }
+},
+{
+  "model": "budget.budget",
+  "pk": 3,
+  "fields": {
+    "name": "Katya's budget",
+    "owner": 4,
+    "shared": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "budget.budget",
+  "pk": 4,
+  "fields": {
+    "name": "Oleg's budget",
+    "owner": 5,
+    "shared": []
+  }
+}
+]

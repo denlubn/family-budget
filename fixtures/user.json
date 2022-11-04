@@ -1,0 +1,92 @@
+[
+{
+  "model": "user.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$dmVVK8OIoXNhesxSjgk3Hi$bWeVa2c7y0NG6cIcK49ukf0J1aRhOH7ypnon5bsg89Q=",
+    "last_login": "2022-11-02T14:54:15.074Z",
+    "is_superuser": true,
+    "username": "admin.user",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin.user@gmil.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-11-02T14:36:04.626Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$FxTQiApsgD06zsjsyyerJA$U33oCIR6tmDgJiM8g/jStPsp4Wz0Ho1K5ObJbWdV7lI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Misa",
+    "first_name": "",
+    "last_name": "",
+    "email": "misa@mail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-11-03T13:02:04.716Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$bNT1a707eMjSG43w1zGbX7$7NbLI8C19JBwpP2EO8x5oI5+j+9ReeNm0cc4eGlqxL8=",
+    "last_login": "2022-11-03T13:14:41.828Z",
+    "is_superuser": false,
+    "username": "alex",
+    "first_name": "",
+    "last_name": "",
+    "email": "alex@mail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-11-03T13:03:06.003Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RWPkhTe23exqgH1NyOe8C3$+HUN5cD94uFgwYtoBJRBAi5iMdlzeOFBIbQJaZDn1PE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "katya",
+    "first_name": "",
+    "last_name": "",
+    "email": "katya@mail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-11-03T13:03:23.035Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$HK6LLJ5XSzqhJp5vkBCG0Y$mCgxpql7MX4ub1VcKW10gPpng1/4PxmOoPUE16SFWOA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "oleg",
+    "first_name": "",
+    "last_name": "",
+    "email": "oleg@mail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-11-03T13:03:38.648Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
